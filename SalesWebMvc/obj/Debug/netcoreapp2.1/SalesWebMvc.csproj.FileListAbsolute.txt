@@ -34,4 +34,3 @@ C:\Users\Camila Batista\OneDrive\Documentos\4. Estudos\5. Csharp\Projetos\SalesW
 C:\Users\Camila Batista\OneDrive\Documentos\4. Estudos\5. Csharp\Projetos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 C:\Users\Camila Batista\OneDrive\Documentos\4. Estudos\5. Csharp\Projetos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
 C:\Users\Camila Batista\OneDrive\Documentos\4. Estudos\5. Csharp\Projetos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.AssemblyReference.cache
-C:\Users\Camila Batista\OneDrive\Documentos\4. Estudos\5. Csharp\Projetos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
