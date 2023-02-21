@@ -40,3 +40,4 @@ C:\Users\Camila Batista\OneDrive\Documentos\4. Estudos\5. Csharp\Projetos\SalesW
 C:\Users\Camila Batista\OneDrive\Documentos\4. Estudos\5. Csharp\Projetos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.cshtml.g.cs
 C:\Users\Camila Batista\OneDrive\Documentos\4. Estudos\5. Csharp\Projetos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
 C:\Users\Camila Batista\OneDrive\Documentos\4. Estudos\5. Csharp\Projetos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
+C:\Users\Camila Batista\OneDrive\Documentos\4. Estudos\5. Csharp\Projetos\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
